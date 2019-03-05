@@ -25,4 +25,4 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](https://p2d7x8x2.stackpathcdn.com/wordpress/wp-content/uploads/2018/01/field-clouds-sky-earth-46160.jpg)
