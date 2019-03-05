@@ -5,9 +5,9 @@
 Hoy comi **tortilla**
 
 ### libros
--* Mistborn* by Brandon Sanderson
--* El aliento de los dioses* by Brandon sanderson
--* Ready player* one by Ernest Cline
+- *Mistborn* by Brandon Sanderson
+- *El aliento de los dioses* by Brandon sanderson
+- *Ready player* one by Ernest Cline
 
 ### Cosas
 1. botella
