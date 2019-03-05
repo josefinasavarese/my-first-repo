@@ -1,28 +1,23 @@
-# This is a large heading
+# Jose
 
-## This is a smaller heading
+### comida
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Hoy comi **tortilla**
 
-- This is
-- an unordered
-- list
+### libros
+- *Mistborn* by Brandon Sanderson
+- *El aliento de los dioses* by Brandon sanderson
+- *Ready player* one by Ernest Cline
 
-1. This is
-2. an ordered
-3. list
+### Cosas
+1. botella
+2. cuaderno
+3. cartuchera
+4. hojas
 
-Here is `some code` in the middle of a sentence.
+### un haiku 
+las casas son pequeñas
 
-```
-This is
-a block
-of code
-```
+las rosas grandes
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+y los sueños vida son
